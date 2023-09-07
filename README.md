@@ -70,10 +70,6 @@ This is the main component that composes the calculator. It manages the calculat
    npx react-native run-ios
    ```
 
-## Customization
-
-You can customize the interface and styles of the components to match your preferences. Styles are defined within the components themselves, allowing for easy adjustments of colors, sizes, and layouts.
-
 ## Contribution
 
 If you'd like to contribute to this project, feel free to create a pull request. I'll be happy to review and incorporate improvements.
